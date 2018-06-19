@@ -1,0 +1,10 @@
+D:\programming\visual studio\GUI\C#\app1\app1\bin\Debug\app1.exe.config
+D:\programming\visual studio\GUI\C#\app1\app1\obj\Debug\app1.csprojResolveAssemblyReference.cache
+D:\programming\visual studio\GUI\C#\app1\app1\obj\Debug\app1.Properties.Resources.resources
+D:\programming\visual studio\GUI\C#\app1\app1\obj\Debug\app1.csproj.GenerateResource.Cache
+D:\programming\visual studio\GUI\C#\app1\app1\bin\Debug\app1.exe
+D:\programming\visual studio\GUI\C#\app1\app1\bin\Debug\app1.pdb
+D:\programming\visual studio\GUI\C#\app1\app1\obj\Debug\app1.exe
+D:\programming\visual studio\GUI\C#\app1\app1\obj\Debug\app1.pdb
+D:\programming\visual studio\GUI\C#\app1\app1\obj\Debug\app1.LoginF.resources
+D:\programming\visual studio\GUI\C#\app1\app1\obj\Debug\app1.homepage.resources
